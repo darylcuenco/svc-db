@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vACC6BbWaL0xBCrY4AtMzvfSIVyq2N40bafgDh7luYo=",
+  "Source": "svc-db",
+  "BasePath": "_content/svc-db",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
